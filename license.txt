@@ -1,3 +1,0 @@
-nonexistentexample-1.0.1/
-wplicense-1.0.2/
-nonexistentnewexample-1.0.3/
